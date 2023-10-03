@@ -1,6 +1,6 @@
 # CodSoft
 This is my repository for CodSoft Internship
-1st Project -> Credit Card fraud Detection using Classification Algorithms such as Random Forest and Decision Tree
+#1st Project -> Credit Card fraud Detection using Classification Algorithms such as Random Forest and Decision Tree
 --------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
 Reading the train and test CSV file
